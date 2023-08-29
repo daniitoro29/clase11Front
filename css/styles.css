@@ -69,6 +69,7 @@ footer, .title {
         align-items: center;
         gap: 20px;
         padding: 20px;
+        color: black;
 
         & h2 {
             margin: 0;
